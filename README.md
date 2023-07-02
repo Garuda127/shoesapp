@@ -7,7 +7,7 @@ A new Flutter project.
 ![alt](assets\imgs\idea.jpg)
 
 #### Resultado
-![alt](assets\imgs\Resultado.gif)
+![alt](assets\imgs\Resultado.gif](https://github.com/Garuda127/shoesapp-Reto/blob/main/assets/imgs/idea.jpg))
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
