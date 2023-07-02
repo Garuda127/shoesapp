@@ -4,10 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 ### Esto es un reto de esta imagen
-![alt](assets\imgs\Resultado.gif](https://github.com/Garuda127/shoesapp-Reto/blob/main/assets/imgs/idea.jpg)
+![alt](https://github.com/Garuda127/shoesapp-Reto/blob/main/assets/imgs/idea.jpg)
 
 #### Resultado
-![alt](assets\imgs\Resultado.gif](https://github.com/Garuda127/shoesapp-Reto/blob/main/assets/imgs/idea.jpg)
+![alt](https://github.com/Garuda127/shoesapp-Reto/blob/main/assets/imgs/Resultado.gif)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
